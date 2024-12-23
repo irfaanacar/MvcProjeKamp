@@ -1,0 +1,17 @@
+C:\Users\irfaa\Desktop\C#\MVC\MvcProjeKamp\DataAcessLayer\bin\Debug\DataAcessLayer.dll.config
+C:\Users\irfaa\Desktop\C#\MVC\MvcProjeKamp\DataAcessLayer\bin\Debug\DataAcessLayer.dll
+C:\Users\irfaa\Desktop\C#\MVC\MvcProjeKamp\DataAcessLayer\bin\Debug\DataAcessLayer.pdb
+C:\Users\irfaa\Desktop\C#\MVC\MvcProjeKamp\DataAcessLayer\bin\Debug\EntityFramework.dll
+C:\Users\irfaa\Desktop\C#\MVC\MvcProjeKamp\DataAcessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\irfaa\Desktop\C#\MVC\MvcProjeKamp\DataAcessLayer\bin\Debug\EntityLayer.dll
+C:\Users\irfaa\Desktop\C#\MVC\MvcProjeKamp\DataAcessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\irfaa\Desktop\C#\MVC\MvcProjeKamp\DataAcessLayer\bin\Debug\EntityLayer.dll.config
+C:\Users\irfaa\Desktop\C#\MVC\MvcProjeKamp\DataAcessLayer\bin\Debug\EntityFramework.xml
+C:\Users\irfaa\Desktop\C#\MVC\MvcProjeKamp\DataAcessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\irfaa\Desktop\C#\MVC\MvcProjeKamp\DataAcessLayer\obj\Debug\DataAcessLayer.csproj.AssemblyReference.cache
+C:\Users\irfaa\Desktop\C#\MVC\MvcProjeKamp\DataAcessLayer\obj\Debug\DataAcessLayer.csproj.CoreCompileInputs.cache
+C:\Users\irfaa\Desktop\C#\MVC\MvcProjeKamp\DataAcessLayer\obj\Debug\DataAces.3D70AC44.Up2Date
+C:\Users\irfaa\Desktop\C#\MVC\MvcProjeKamp\DataAcessLayer\obj\Debug\DataAcessLayer.dll
+C:\Users\irfaa\Desktop\C#\MVC\MvcProjeKamp\DataAcessLayer\obj\Debug\DataAcessLayer.pdb
+C:\Users\irfaa\Desktop\C#\MVC\MvcProjeKamp\DataAcessLayer\obj\Debug\DataAcessLayer.Migrations.mig1.resources
+C:\Users\irfaa\Desktop\C#\MVC\MvcProjeKamp\DataAcessLayer\obj\Debug\DataAcessLayer.csproj.GenerateResource.cache
